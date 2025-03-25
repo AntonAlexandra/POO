@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\POO\\clase_prietene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED933A-3A48-4D05-9F08-5F322B932850}|clase_prietene\\clase_prietene.vcxproj|C:\\Users\\user\\Desktop\\POO\\clase_prietene\\clase_prietene\\clase_prietene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44ED933A-3A48-4D05-9F08-5F322B932850}|clase_prietene\\clase_prietene.vcxproj|solutionrelative:clase_prietene\\clase_prietene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clase_prietene.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\POO\\clase_prietene\\clase_prietene\\clase_prietene.cpp",
+              "RelativeDocumentMoniker": "clase_prietene\\clase_prietene.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\POO\\clase_prietene\\clase_prietene\\clase_prietene.cpp",
+              "RelativeToolTip": "clase_prietene\\clase_prietene.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T15:24:15.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
