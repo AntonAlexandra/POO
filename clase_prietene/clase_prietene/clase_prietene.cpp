@@ -81,7 +81,7 @@ int main() {
 		cout << s1.getNume() << " are media mai mare ca " << s2.getNume() << endl;
 	}
 	else {
-		cout << s2.getNume() << " are media mai mare ca " << s1.getNume() << endl;
+		cout << s2.getNume() << " are media mai mica ca " << s1.getNume() << endl;
 	}
 
 

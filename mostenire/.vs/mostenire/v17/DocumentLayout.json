@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\POOv2\\mostenire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E224D88-A7F1-4A4E-96AB-F99BB826C701}|mostenire\\mostenire.vcxproj|C:\\Users\\user\\Desktop\\POOv2\\mostenire\\mostenire\\mostenire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E224D88-A7F1-4A4E-96AB-F99BB826C701}|mostenire\\mostenire.vcxproj|solutionrelative:mostenire\\mostenire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mostenire.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\POOv2\\mostenire\\mostenire\\mostenire.cpp",
+              "RelativeDocumentMoniker": "mostenire\\mostenire.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\POOv2\\mostenire\\mostenire\\mostenire.cpp",
+              "RelativeToolTip": "mostenire\\mostenire.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T13:33:02.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
